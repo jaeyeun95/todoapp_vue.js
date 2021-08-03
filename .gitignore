@@ -1,7 +1,8 @@
 .DS_Store
+# node_modules ignore
 node_modules
-/dist
-
+dist/*
+*.log
 
 # local env files
 .env.local
